@@ -23,7 +23,7 @@ This project implements a Convolutional Neural Network (CNN) to classify images 
 ## 🛠️ How to Run
 ```bash
 # Clone this repository
-git clone https://github.com/your-username/cifar10-cnn-tensorflow.git
+git clone https://github.com/Zafir547/CIFAR-10-Image-Classification-using-CNN-in-TensorFlow.git
 
 # Install dependencies
 pip install tensorflow matplotlib
