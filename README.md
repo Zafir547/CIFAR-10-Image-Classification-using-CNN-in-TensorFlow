@@ -29,4 +29,4 @@ git clone https://github.com/Zafir547/CIFAR-10-Image-Classification-using-CNN-in
 pip install tensorflow matplotlib
 ```
 
-# Run the code cell step by step pipeline inside Jupyter notebook files: data preprocessing, training model, model evaluation, testing image predictions.
+Run the code cell step by step pipeline inside Jupyter notebook files: data preprocessing, training model, model evaluation, and testing image predictions.
