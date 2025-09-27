@@ -17,8 +17,8 @@ This project implements a Convolutional Neural Network (CNN) to classify images 
 - Custom image prediction support (resized to 32×32)
 
 ## 📊 Results
-- Achieved ~70% test accuracy after 10 epochs
-- Accuracy improves with deeper CNN architecture
+- Achieved ~72% test accuracy after 10 epochs
+- Accuracy improves with a deeper CNN architecture
 
 ## 🛠️ How to Run
 ```bash
